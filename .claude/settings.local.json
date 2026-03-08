@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(grep -E \"\\(\\\\.json$|\\\\.js$|\\\\.ts$|\\\\.tsx$|\\\\.css$|\\\\.md$|\\\\.config\\\\.|\\\\.toml$\\)\")",
+      "Bash(npm install @supabase/ssr @supabase/supabase-js zustand)",
+      "Bash(npm run build)"
+    ],
+    "additionalDirectories": [
+      "c:\\Users\\Christain\\Desktop\\Projects\\NEXT\\gadgets",
+      "C:\\Users\\Christain\\Desktop\\Projects\\NEXT\\gadgets\\app\\(public)\\products"
+    ]
+  }
+}
